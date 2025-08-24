@@ -125,4 +125,3 @@
 @@||*.github.io
 @@||*github*
 @@||*.github.*
-@@||raw.githubusercontent.*
