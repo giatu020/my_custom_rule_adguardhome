@@ -161,3 +161,7 @@
 ||*coloros*
 ||*.coloros.*
 @@||github.com^
+@@||*.github.io
+@@||*github*
+@@||*.github.*
+@@||raw.githubusercontent.*
