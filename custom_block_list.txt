@@ -14,7 +14,7 @@
 ||styles.redditmedia.com^$important
 ||www.redditstatic.com^$important
 ||embed.reddit.com^$important
-|www.meta.com^$important
+||www.meta.com^$important
 ||onecs-live.azureedge.net^$important
 ||idm
 ||internetdownloadmanager
