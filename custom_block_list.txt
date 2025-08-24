@@ -31,7 +31,7 @@
 ||games.deo.shopeemobile.com^$important
 ||*.vod.susercontent.com^$important
 ||*live-*
-||zhopeevod.*
+||zshopeevod.*
 ||*.livestream.shopee.*
 ||sv.shopee.vn^$important
 ||zshopee.v.baishan-cloud.net^$important
