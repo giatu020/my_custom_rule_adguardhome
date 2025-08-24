@@ -37,3 +37,4 @@
 ||zshopee.v.baishan-cloud.net^$important
 |*coloros*
 ||*.coloros.*
+||down-zl-*.vod.susercontent.*
