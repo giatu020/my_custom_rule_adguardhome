@@ -115,7 +115,6 @@
 @@||openwrt.*^
 @@||voz.vn^
 @@||cf.shopee.vn
-@@||msdk.shopee.vn
 @@||api.shopee.vn
 @@||pay.shopee.*
 @@||*airpay*
