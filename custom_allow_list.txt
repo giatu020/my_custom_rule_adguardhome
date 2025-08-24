@@ -121,7 +121,3 @@
 @@||pay.shopee.*
 @@||*airpay*
 @@||*garena*
-@@||github.com^
-@@||*.github.io
-@@||*github*
-@@||*.github.*
