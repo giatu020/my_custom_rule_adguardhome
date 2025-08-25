@@ -133,5 +133,4 @@
 @@||*.vietcombank.com.vn^
 @@||*.apple.com^
 @@||*.zimperium.com^
-@@||*.mozilla.com^
 @@||dynatracesso.techcombank.com.vn
