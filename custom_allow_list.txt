@@ -132,3 +132,5 @@
 @@||*.mbbank.com.vn^
 @@||*.vietcombank.com.vn^
 @@||*.apple.com^
+@@||*.zimperium.com^
+@@||*.mozilla.com^
