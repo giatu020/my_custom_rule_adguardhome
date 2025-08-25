@@ -129,3 +129,4 @@
 @@||optimizationguide-pa.googleapis.com
 @@||safebrowsing.googleapis.com
 @@||fonts.gstatic.com
+@@||*.mbbank.com.vn^
