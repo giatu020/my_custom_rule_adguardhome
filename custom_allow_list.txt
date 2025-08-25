@@ -131,3 +131,4 @@
 @@||fonts.gstatic.com
 @@||*.mbbank.com.vn^
 @@||*.vietcombank.com.vn^
+@@||*.apple.com^
