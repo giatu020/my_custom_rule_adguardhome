@@ -122,3 +122,10 @@
 @@||*.vinacapital.com^
 @@||*.apple.com^
 @@||*.voz.tech
+@@||content-autofill.googleapis.com
+@@||chromewebstore.googleapis.com
+@@||firebaseremoteconfig.googleapis.com
+@@||fcmtoken.googleapis.com
+@@||optimizationguide-pa.googleapis.com
+@@||safebrowsing.googleapis.com
+@@||fonts.gstatic.com
