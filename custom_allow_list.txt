@@ -130,3 +130,4 @@
 @@||safebrowsing.googleapis.com
 @@||fonts.gstatic.com
 @@||*.mbbank.com.vn^
+@@||*.vietcombank.com.vn^
