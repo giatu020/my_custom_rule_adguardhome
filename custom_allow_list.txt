@@ -121,3 +121,4 @@
 @@||*garena*
 @@||*.vinacapital.com^
 @@||*.apple.com^
+@@||*.voz.tech
