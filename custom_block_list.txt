@@ -39,3 +39,6 @@ zshopee.v.baishan-cloud.net
 ||*.coloros.*
 ||down-zl-*.vod.susercontent.*
 ||msdk.shopee.vn
+||*snapchat
+||*zoom
+||moa-upload-sg.allawnos.com^$important
