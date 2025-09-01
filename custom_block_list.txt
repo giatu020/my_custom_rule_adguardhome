@@ -42,3 +42,4 @@ zshopee.v.baishan-cloud.net
 ||*snapchat
 ||*zoom
 ||moa-upload-sg.allawnos.com^$important
+||*heytap
