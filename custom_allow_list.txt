@@ -64,10 +64,6 @@
 @@||ytimg.com^
 @@||i.ytimg.com^
 @@||www.youtube.com^
-@@||tiktok.com^
-@@||tiktokcdn.com^
-@@||tiktokv.com^
-@@||tiktokrow-cdn.com^
 @@||grab.com^
 @@||grabtaxi.com^
 @@||api.grab.com^
