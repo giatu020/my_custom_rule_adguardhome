@@ -43,3 +43,7 @@ zshopee.v.baishan-cloud.net
 ||*zoom
 ||moa-upload-sg.allawnos.com^$important
 ||*heytap
+||tiktok.com^
+||tiktokcdn.com^
+||tiktokv.com^
+||tiktokrow-cdn.com^
