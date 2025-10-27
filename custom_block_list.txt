@@ -11,9 +11,9 @@
 ||*.meta.ai
 ||eko.one.pl^$important
 #||*.reddit*
-||styles.redditmedia.com^$important
-||www.redditstatic.com^$important
-||embed.reddit.com^$important
+#||styles.redditmedia.com^$important
+#||www.redditstatic.com^$important
+#||embed.reddit.com^$important
 ||www.meta.com^$important
 ||onecs-live.azureedge.net^$important
 ||idm
@@ -43,7 +43,7 @@ zshopee.v.baishan-cloud.net
 ||*zoom
 ||moa-upload-sg.allawnos.com^$important
 ||*heytap
-||tiktok.com^
-||tiktokcdn.com^
-||tiktokv.com^
-||tiktokrow-cdn.com^
+#||tiktok.com^
+#||tiktokcdn.com^
+#||tiktokv.com^
+#||tiktokrow-cdn.com^
