@@ -19,7 +19,7 @@
 ||idm
 ||internetdownloadmanager
 ||*3u
-||shopeevideo
+#||shopeevideo
 ||*live.shopee.*
 ||*livetech*
 ||giaitri.shopee.vn^$important
@@ -47,3 +47,15 @@ zshopee.v.baishan-cloud.net
 #||tiktokcdn.com^
 #||tiktokv.com^
 #||tiktokrow-cdn.com^
+||ifota.realmemobile.com^$important
+||*zingnews
+||*baomoi
+||*znews
+||odc.officeapps.live.com^$important
+||metadata.templates.cdn.office.net^$important
+||*office
+||content-signature-chains.prod.autograph.services.mozaws.net^$important
+||*snapchat
+||*zoom
+||moa-upload-sg.allawnos.com^$important
+||mdp-appconf-th.heytapdl.com^$important
