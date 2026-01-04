@@ -130,3 +130,4 @@
 @@||*.apple.com^
 @@||*.zimperium.com^
 @@||dynatracesso.techcombank.com.vn
+@@||vtvgolive-ssaimh.vtvdigital.vn
