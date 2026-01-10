@@ -33,7 +33,6 @@
 ||*live-*
 ||zshopeevod.*
 ||*.livestream.shopee.*
-||sv.shopee.vn^$important
 zshopee.v.baishan-cloud.net
 |*coloros*
 ||*.coloros.*
